@@ -29,11 +29,20 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Produto da etapa
 
-Um objetivo geral e de três a quatro objetivos específicos.
+Objetivo geral
+
+`[Compreender como a automação por Inteligência Artificial afeta o cotidiano dos trabalhadores e a desigualdade nas empresas.]`
+
+Objetivos específicos
+
+1. `[Mapear quais áreas e tipos de trabalho estão sendo mais mudados ou substituídos pela IA.]`
+2. `[Identificar como a automação pode aumentar a distância entre quem ganha muito e quem perde espaço no mercado.]`
+3. `[Examinar os impactos da automação na saúde mental e na rotina diária das equipes de trabalho.]`
+4. `[Juntar ideias e boas práticas para garantir que a tecnologia seja usada de forma mais justa para todo mundo.]`
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
