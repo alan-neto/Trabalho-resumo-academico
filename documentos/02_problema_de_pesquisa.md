@@ -35,5 +35,9 @@ Pergunta de pesquisa aprovada.
 ## Contribuições
 
 | Integrante | Atividade realizada |
-|---|---|
-| `[nome]` | `[preencher]` |
+
+ | [Alan rosa da Silveira Neto]| [Pesquisa e escrita]| 
+ | [Caua Silva Godoy]| [Pesquisa]| 
+ | [Gabriel Campos Monzani]| [Pesquisa]| 
+ | [Gabriel Gomes Ferreira]| [Pesquisa  e escrita]|
+ | [Matheus Bispo]| [Pesquisa]|
