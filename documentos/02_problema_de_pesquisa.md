@@ -41,3 +41,7 @@ Pergunta de pesquisa aprovada.
  | [Gabriel Campos Monzani]| [Pesquisa]| 
  | [Gabriel Gomes Ferreira]| [Pesquisa  e escrita]|
  | [Matheus Bispo]| [Pesquisa]|
+
+## Fontes
+
+https://www.researchgate.net/publication/370227920_Generative_AI_at_Work / https://www.researchgate.net/publication/398130072_The_Impact_of_Artificial_Intelligence_on_Labor_Market_Income_Inequality / https://www.hbs.edu/ris/Publication%20Files/25-039_05fbec84-1f23-459b-8410-e3cd7ab6c88a.pdf
