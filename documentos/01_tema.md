@@ -53,7 +53,6 @@ Tema delimitado e justificativa.
 ## Contribuições
 
 | Integrante | Atividade realizada |
-|---|---|
 | `[Alan rosa da Silveira Neto]` | `[Pesquisa e escrita]` |
 | `[Caua Silva Godoy]` | `[Pesquisa]` |
 | `[Gabriel Campos Monzani]` | `[Pesquisa]` |
