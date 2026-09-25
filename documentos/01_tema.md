@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Impacto Social da IA no Mundo.]`
+`[Impacto Social da IA no Trabalho e no Trabalhador.]`
 
 ### Do tema amplo ao específico
 
